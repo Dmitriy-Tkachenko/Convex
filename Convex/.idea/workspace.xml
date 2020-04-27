@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e50ad5-3281-4f9c-a4a7-2d64fff4f81e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDAM07OKwGuyYEGIGidpMvPbob" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.university.project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConvexTest">
+    <configuration name="ConvexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.ConvexTest" />
+      <module name="Convex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.university.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Layouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.Layouts" />
+      <module name="Convex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.university.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.Main" />
+      <module name="Convex" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.Window" />
+      <module name="Convex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.university.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ConvexTest" />
+      <item itemvalue="Application.Window" />
+      <item itemvalue="Application.Layouts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConvexTest" />
+        <item itemvalue="Application.Layouts" />
+        <item itemvalue="Application.Window" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e50ad5-3281-4f9c-a4a7-2d64fff4f81e" name="Default Changelist" comment="" />
+      <created>1586259738832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586259738832</updated>
+      <workItem from="1586259740322" duration="3435000" />
+      <workItem from="1586729182360" duration="6552000" />
+      <workItem from="1586870427037" duration="9000" />
+      <workItem from="1586875538009" duration="23780000" />
+      <workItem from="1587151477386" duration="1665000" />
+      <workItem from="1587411222270" duration="3105000" />
+      <workItem from="1587414424971" duration="13844000" />
+      <workItem from="1587467417760" duration="29850000" />
+      <workItem from="1587500404716" duration="83000" />
+      <workItem from="1587500672769" duration="80000" />
+      <workItem from="1587500779838" duration="83000" />
+      <workItem from="1587500929298" duration="38000" />
+      <workItem from="1587500991497" duration="1884000" />
+      <workItem from="1587834419823" duration="26402000" />
+      <workItem from="1587901991954" duration="17480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1587903395510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587903395510" />
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586882425422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586882425422" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586882519590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586882519590" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586733414187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586733414187" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1587919930080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1587919930080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1587919930080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930080" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1587919930080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1587919930081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930081" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1587919930081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930081" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1587919930080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930080" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1587919930081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587919930081" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586882006584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586882006584" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587902027942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587902027942" />
+    <state x="212" y="120" key="new project wizard" timestamp="1587469065372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="212" y="120" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587469065372" />
+    <state x="666" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1587501037135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587501037135" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1587840936652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587840936652" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1587844066190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587844066190" />
+  </component>
+</project>
